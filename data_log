@@ -1,0 +1,16 @@
+2023-12-22 00:34:27,757 - INFO - Extracting data from flat file
+2023-12-22 00:34:27,757 - INFO - Data successfully Extracted
+2023-12-22 00:34:27,757 - INFO - Transforming flat file
+2023-12-22 00:34:27,757 - INFO - Transformation Successful
+2023-12-22 00:34:27,758 - INFO - Loading transformed file
+2023-12-22 00:35:15,763 - INFO - Extracting data from flat file
+2023-12-22 00:35:15,764 - INFO - Data successfully Extracted
+2023-12-22 00:35:15,764 - INFO - Transforming flat file
+2023-12-22 00:35:15,764 - INFO - Transformation Successful
+2023-12-22 00:35:15,764 - INFO - Loading transformed file
+2023-12-22 00:36:24,021 - INFO - Extracting data from flat file
+2023-12-22 00:36:24,021 - INFO - Data successfully Extracted
+2023-12-22 00:36:24,021 - INFO - Transforming flat file
+2023-12-22 00:36:24,022 - INFO - Transformation Successful
+2023-12-22 00:36:24,022 - INFO - Loading transformed file
+2023-12-22 00:36:24,022 - INFO - Loaded file Successfully
